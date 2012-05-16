@@ -14,3 +14,4 @@ puts "I want my script to print another line"
 puts "Make my scrript print only one of the lines"
 
 put "Hello github"
+put "Hello github"
